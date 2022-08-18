@@ -1,7 +1,8 @@
 PulsePosition
 =============
 
-Multiple High-Res Input &amp; Output PPM Encoded Signal Streams on Teensy 3.x, LC, and 4.0
+Multiple High-Res Input &amp; Output PPM Encoded Signal Streams on Teensy 3.x, LC, and 4.0. 
+Support for Arduino is still in development.
 
 Valid pins (input or output) by board type:
 ```
